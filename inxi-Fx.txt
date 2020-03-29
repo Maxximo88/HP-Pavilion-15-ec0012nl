@@ -1,7 +1,7 @@
 System:    Host: maxximo88-PC Kernel: 4.15.0-30deepin-generic x86_64 (64 bit gcc: 6.3.0) Desktop: N/A
            Distro: Deepin 15
-Machine:   Device: laptop System: HP product: HP Pavilion Gaming Laptop 15-ec0xxx serial: 5CD9385BNC
-           Mobo: HP model: 86D5 v: 96.31 serial: PJMUB018JCS0QH UEFI: AMI v: F.05 date: 11/06/2019
+Machine:   Device: laptop System: HP product: HP Pavilion Gaming Laptop 15-ec0xxx serial: XXXXXX
+           Mobo: HP model: 86D5 v: 96.31 serial: XXXXXX UEFI: AMI v: F.05 date: 11/06/2019
 Battery    BAT0: charge: 50.3 Wh 100.1% condition: 50.3/50.3 Wh (100%)
            model: Hewlett-Packard Primary status: Full
 CPU:       Quad core AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx (-HT-MCP-) cache: 2048 KB
