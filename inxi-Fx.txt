@@ -1,22 +1,22 @@
 System:    Host: maxximo88-PC Kernel: 5.3.0-3-amd64 x86_64 bits: 64 compiler: gcc v: 8.3.0 
-           Console: tty 0 Distro: Deepin 20 Beta base: Debian unstable 
+           Desktop: Deepin 20 Distro: Deepin 20 Beta base: Debian unstable 
 Machine:   Type: Laptop System: HP product: HP Pavilion Gaming Laptop 15-ec0xxx v: N/A 
-           serial: 5CD9385BNC 
-           Mobo: HP model: 86D5 v: 96.31 serial: PJMUB018JCS0QH UEFI: AMI v: F.05 
+           serial: <root required> 
+           Mobo: HP model: 86D5 v: 96.31 serial: <root required> UEFI: AMI v: F.05 
            date: 11/06/2019 
-Battery:   ID-1: BAT0 charge: 43.6 Wh condition: 50.3/50.3 Wh (100%) 
+Battery:   ID-1: BAT0 charge: 44.7 Wh condition: 50.3/50.3 Wh (100%) 
            model: Hewlett-Packard Primary status: Charging 
 CPU:       Topology: Quad Core model: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx bits: 64 
            type: MT MCP arch: Zen rev: 1 L2 cache: 2048 KiB 
            flags: lm nx pae sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3 svm bogomips: 36731 
-           Speed: 1223 MHz min/max: 1400/2300 MHz Core speeds (MHz): 1: 1223 2: 1251 3: 1250 
-           4: 1236 5: 1224 6: 1233 7: 1224 8: 1230 
+           Speed: 1224 MHz min/max: 1400/2300 MHz Core speeds (MHz): 1: 1225 2: 1259 3: 1224 
+           4: 1261 5: 1227 6: 1228 7: 1233 8: 1288 
 Graphics:  Device-1: NVIDIA TU117M [GeForce GTX 1650 Mobile / Max-Q] vendor: Hewlett-Packard 
            driver: nouveau v: kernel bus ID: 01:00.0 
            Device-2: AMD Picasso vendor: Hewlett-Packard driver: amdgpu v: kernel 
            bus ID: 05:00.0 
-           Display: server: X.Org 1.20.4 driver: amdgpu,ati,modesetting unloaded: fbdev,vesa 
-           resolution: 1920x1080~60Hz 
+           Display: x11 server: X.Org 1.20.4 driver: amdgpu,ati,modesetting 
+           unloaded: fbdev,vesa resolution: 1920x1080~60Hz 
            OpenGL: renderer: AMD RAVEN (DRM 3.33.0 5.3.0-3-amd64 LLVM 7.0.1) 
            v: 4.5 Mesa 19.2.6 direct render: Yes 
 Audio:     Device-1: NVIDIA vendor: Hewlett-Packard driver: snd_hda_intel v: kernel 
@@ -34,9 +34,9 @@ Network:   Device-1: Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter
            IF: eno1 state: down mac: f8:b4:6a:a8:54:d8 
 Drives:    Local Storage: total: 476.94 GiB used: 257.87 GiB (54.1%) 
            ID-1: /dev/nvme0n1 vendor: Intel model: SSDPEKNW512G8H size: 476.94 GiB 
-Partition: ID-1: / size: 29.40 GiB used: 6.05 GiB (20.6%) fs: ext4 dev: /dev/nvme0n1p6 
-Sensors:   System Temperatures: cpu: 55.8 C mobo: N/A 
+Partition: ID-1: / size: 29.40 GiB used: 6.06 GiB (20.6%) fs: ext4 dev: /dev/nvme0n1p6 
+Sensors:   System Temperatures: cpu: 54.8 C mobo: N/A 
            Fan Speeds (RPM): N/A 
-           GPU: device: amdgpu temp: 52 C device: nouveau temp: 38 C 
-Info:      Processes: 239 Uptime: 21m Memory: 5.79 GiB used: 1.83 GiB (31.6%) Init: systemd 
+           GPU: device: amdgpu temp: 48 C device: nouveau temp: 37 C 
+Info:      Processes: 238 Uptime: 24m Memory: 5.79 GiB used: 1.84 GiB (31.8%) Init: systemd 
            runlevel: 5 Compilers: gcc: 8.3.0 Shell: bash v: 5.0.3 inxi: 3.0.32 
